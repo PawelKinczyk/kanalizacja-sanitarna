@@ -1,6 +1,6 @@
 # Kanalizacja sanitarna w CAD – przykładowy skill dla Claude
 
-Repozytorium do filmu **„Model AI widzi Twój rysunek w CAD dopiero wtedy, gdy podłączysz go przez serwer MCP”**. W filmie pokazuję drogę od architektury przez osie i kropki wody do instalacji sanitarnej w GstarCAD, a na końcu skill creator tworzy z zebranych uwag skill do rysowania kanalizacji sanitarnej. Ten skill znajdziesz tutaj.
+Repozytorium do filmu **[„Model AI widzi Twój rysunek w CAD dopiero wtedy, gdy podłączysz go przez serwer MCP”](https://youtu.be/oJoezFvfTgM)**. W filmie pokazuję drogę od architektury przez osie i kropki wody do instalacji sanitarnej w GstarCAD, a na końcu skill creator tworzy z zebranych uwag skill do rysowania kanalizacji sanitarnej. Ten skill znajdziesz tutaj.
 
 To skill przykładowy. Pokazuje, jak zamienić korekty wydawane modelowi w trakcie pracy w powtarzalne zasady. Dopasuj go do swoich standardów, warstw i bloków, zanim użyjesz go w projekcie.
 
@@ -103,7 +103,6 @@ Na każdym z tych repozytoriów jest instrukcja instalacji. Konfigurację łatwi
 ## Powiązane filmy
 
 - Dyktowanie poleceń w Handy zamiast pisania: https://www.youtube.com/watch?v=y_ZnVwFdKeY
-- Skille w Claude, bez tego filmu skill creator nie będzie jasny: https://youtu.be/fWUHA1TJOS4
 
 ## Autor
 
