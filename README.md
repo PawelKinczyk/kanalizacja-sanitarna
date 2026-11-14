@@ -25,6 +25,24 @@ kanalizacja-sanitarna/
 
 **`references/cad-com.md`** to wiedza techniczna: połączenie z CAD przez COM, rysowanie polilinii, kropek i bloków z atrybutami, pułapki PowerShell i dekodowanie zrzutu widoku z serwera MCP.
 
+## Dodatkowe skille
+
+Poza skillem z filmu w repozytorium są dwa skille do codziennej pracy projektanta instalacji sanitarnych. Nie są potrzebne do ćwiczenia z filmu.
+
+```
+projekt-instalacji-sanitarnych/
+├── SKILL.md                                 # struktura i formatowanie polskiego projektu technicznego
+└── references/                              # opis techniczny, lista kontrolna, obliczenia, rysunki
+wymiarowanie-kanalizacji-sanitarnej/
+├── SKILL.md                                 # wymiarowanie kanalizacji wg PN-EN 12056-2
+└── scripts/kanalizacja_wymiarowanie.py      # obliczenia DU, K, Qww, średnice
+```
+
+- **`projekt-instalacji-sanitarnych`**: struktura, zawartość i formatowanie opisu technicznego z obliczeniami, spisu rysunków i tabelek rysunkowych (wod.-kan., c.o., wentylacja, kanalizacja deszczowa, przyłącza).
+- **`wymiarowanie-kanalizacji-sanitarnej`**: dobór średnic kanalizacji grawitacyjnej wg PN-EN 12056-2, z kontrolą odpływów i przewodów zbiorczych. Wyniki trzeba zweryfikować przed użyciem w projekcie.
+
+Instalacja jest taka sama jak powyżej: skopiuj wybrany folder do `~/.claude/skills/`.
+
 ## Instalacja skilla
 
 **Claude Code** – skopiuj folder `kanalizacja-sanitarna` do katalogu skilli:
